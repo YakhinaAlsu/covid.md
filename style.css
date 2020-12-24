@@ -1,0 +1,26 @@
+.container {
+  text-align: center;
+}
+.day {
+  display: inline-block;
+}
+.date {
+  width: 150px;
+  background: #04b5dd;
+  color: white;
+  text-align: center;
+  font-size: 1.8em;
+}
+.info {
+  text-align: center;
+  font-size: 2.5em;
+}
+p {
+  margin: 0;
+}
+.picture {
+  text-align: center;
+}
+.day:hover {
+  box-shadow: 0 0 7px;
+}
